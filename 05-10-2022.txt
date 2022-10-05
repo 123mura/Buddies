@@ -1,0 +1,10 @@
+Step-by-step process to contribute to a repository
+
+	Click on Fork 
+	git clone forked-your-repo-url
+	make your changes to the repo
+	create a new branch
+	add and commit the changes
+	git push origin branch-name
+	
+
