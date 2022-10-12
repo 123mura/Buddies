@@ -1,0 +1,5 @@
+https://dev.to/tracycss/open-source-contribution-for-beginners-1mhe - basic intro to open source
+https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/ - steps involved in open source
+https://github.com/showcases/great-for-new-contributors - project wise repositories
+https://goodfirstissues.com/ - issues based repositories
+https://up-for-grabs.net/#/ - multiple filters for specfic repository
