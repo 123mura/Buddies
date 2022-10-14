@@ -1,0 +1,5 @@
+Retrack all the previous projects and make them working(push to git)
+Playing random songs with timeline
+App.Stack(clone)
+Swiggy(clone)
+Website for the trading bot
