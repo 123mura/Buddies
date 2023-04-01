@@ -1,0 +1,29 @@
+so here are the few steps to get into the gsoc 
+
+Explore the organizations: Go through the list of organizations that are participating in GSOC and research them thoroughly. Look into their projects, technologies used, and their mission.
+
+Choose a project: Choose an open source project that interests you and aligns with your skills.
+
+Explore the repository: Explore the repository and look for issues that you can help solve. You can also look for opportunities to improve the code, documentation, or tests.
+
+Discuss the issue: Before starting work on an issue, it's a good idea to discuss it with the maintainers of the repository. They can provide you with feedback, guidance, and help you understand the issue better.
+
+Fork the repository: Fork the repository to your own GitHub account.
+
+Make changes: Make the necessary changes to the code or documentation and test your changes thoroughly.
+
+Submit a pull request: Submit a pull request to the organization's repository, detailing your changes.
+
+Follow up: After submitting a pull request, it's important to follow up and address any feedback or comments that the maintainers provide.
+
+Prepare your proposal: Write a clear and concise proposal that outlines your understanding of the project, your proposed plan to complete the project, your timeline, and your previous experience. Make sure to follow the guidelines and requirements for the proposal outlined by the organization.
+
+Submit your proposal: Submit your proposal on time and make sure it is complete and error-free.
+
+Wait for the organization's response: Be patient and wait for the organization's response. If you are selected, you will be notified by the organization, and you can start working on your project.
+
+Complete your project: Work diligently on your project, and make sure you meet all the project requirements and deadlines.
+
+Submit your work: Submit your work on time and make sure it meets all the requirements.
+
+Get feedback and evaluation: Receive feedback and evaluation from the organization, and use it to improve your skills and future projects.
