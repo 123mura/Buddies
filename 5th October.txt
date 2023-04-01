@@ -1,4 +1,4 @@
-Step-by-step process to contribute to a repository
+Step by Step process to contribute to a repository
 
 	1,Click on Fork 
 	2,git clone forked-your-repo-url
