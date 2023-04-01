@@ -6,9 +6,7 @@ Step-by-step process to contribute to a repository
 	create a new branch
 	add and commit the changes
 	git push origin branch-name
-	
-	or 
-
+	(or) 
 	you can directly make changes to the main branche
 	
 	By git push
